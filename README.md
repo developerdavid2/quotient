@@ -1,7 +1,7 @@
 <div align="center">
-  <br />
+  <!-- <br />
     <img src="public/readme/hero.webp" alt="Quotient - Stock Market App">
-  <br />
+  <br /> -->
 
   <div>
     <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black"/>
